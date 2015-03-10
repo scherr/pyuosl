@@ -10,4 +10,4 @@ However, the source code for that is neither concise nor pretty and I currently 
 
 Hence, I share this minimal prototype written in python.
 
-For a feature-complete emulator written in Java checkout Folke Will's [JPhex](https://code.google.com/p/jphex/).
+For a feature-complete emulator written in Java check out Folke Will's [JPhex](https://code.google.com/p/jphex/).
