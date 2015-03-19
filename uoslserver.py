@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# Maximilian Scherr
+# 2002
+
 import threading
 import time
 import socket
