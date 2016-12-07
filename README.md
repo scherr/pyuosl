@@ -3,7 +3,7 @@ PyUOSL
 
 Maximilian Scherr, 2002-
 
-This is a prototype server emulator for Ultima Online: Shattered Legacy I wrote over 12 years ago.
+This is a prototype server emulator for Ultima Online: Shattered Legacy (the pre-alpha version of Ultima Online) I wrote over 12 years ago.
 I did not know about (and thus did not avoid) race conditions at the time and I am sure the code is riddled with other bad surprises, but it is pretty small and somewhat functional.
 
 Later on I ported and continued this using the Delphi programming language and created a more (but still prototypical) feature-rich version.
